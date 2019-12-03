@@ -28,7 +28,6 @@ $git clone https://github.com/king27350/AC-expense-tracker.git
 使用終端機安裝套件
 **Node Version v10.15.3**
 ```
-$cd ~/AC-restaurantList-2
 $npm install
 ```
 載入種子資料至 Mongodb 完成後即可退出
